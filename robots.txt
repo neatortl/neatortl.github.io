@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neatortl.github.io/sitemap.html.gz
+Sitemap: https://neatortl.github.io/app/sitemap.html.gz
+Sitemap: https://neatortl.github.io/assets/sitemap.html.gz
+Sitemap: https://neatortl.github.io/css/sitemap.html.gz
+Sitemap: https://neatortl.github.io/includes/sitemap.html.gz
+Sitemap: https://neatortl.github.io/item/sitemap.html.gz
+Sitemap: https://neatortl.github.io/src/sitemap.html.gz
